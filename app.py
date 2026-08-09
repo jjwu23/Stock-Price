@@ -63,7 +63,7 @@ def get_quote(ticker_symbol: str) -> dict:
     }
 
 
-st.title("📈 Stock Price Lookup")
+st.title("📈 Stock Price Lookup...")
 st.caption("Get the latest available market price for a stock ticker.")
 
 with st.form("quote_form"):
