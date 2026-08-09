@@ -7,7 +7,7 @@ import yfinance as yf
 
 
 st.set_page_config(
-    page_title="Stock Price Lookup",
+    page_title="Stock Price Lookup!!!",
     page_icon="📈",
     layout="centered",
 )
